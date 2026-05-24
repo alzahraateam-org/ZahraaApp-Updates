@@ -1,0 +1,4 @@
+CardBerrow1.png
+CardZad1.png
+FEMALE.jpg
+MALE.jpg
